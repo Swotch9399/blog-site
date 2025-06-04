@@ -16,7 +16,7 @@ Modern blog sitesi - Next.js, Supabase ve Tailwind CSS ile geliştirilmiştir.
 ### 1. Projeyi klonlayın
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Swotch9399/blog-site.git
 cd blog-site
 ```
 
