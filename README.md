@@ -4,9 +4,8 @@ Modern blog sitesi - Next.js, Supabase ve Tailwind CSS ile geliştirilmiştir.
 
 ## Özellikler
 
-- 🌙 Dark/Light tema desteği
+- 🌙 Gece/Gündüz tema desteği
 - 📱 Responsive tasarım
-- 🔐 Kullanıcı kimlik doğrulama
 - 📝 Blog yazısı oluşturma ve düzenleme
 - 🏷️ Kategori ve etiket sistemi
 - 👤 Kullanıcı profilleri
@@ -65,7 +64,3 @@ Site `http://localhost:3000` adresinde çalışacaktır.
 - **UI Components**: shadcn/ui
 - **Authentication**: Supabase Auth
 - **Deployment**: Vercel
-
-## Lisans
-
-MIT
