@@ -15,16 +15,16 @@ Modern blog sitesi - Next.js, Supabase ve Tailwind CSS ile geliştirilmiştir.
 
 ### 1. Projeyi klonlayın
 
-\`\`\`bash
+```bash
 git clone <repo-url>
-cd blog
-\`\`\`
+cd blog-site
+```
 
 ### 2. Bağımlılıkları yükleyin
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### 3. Supabase kurulumu
 
@@ -32,10 +32,10 @@ npm install
 2. Yeni proje oluşturun
 3. `.env.local` dosyası oluşturun:
 
-\`\`\`env
+```env
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-\`\`\`
+```
 
 ### 4. Veritabanı kurulumu
 
@@ -43,9 +43,9 @@ Supabase SQL Editor'da `scripts/create-tables.sql` dosyasını çalıştırın.
 
 ### 5. Projeyi çalıştırın
 
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 Site `http://localhost:3000` adresinde çalışacaktır.
 
